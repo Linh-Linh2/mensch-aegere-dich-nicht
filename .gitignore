@@ -1,0 +1,35 @@
+# Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# Eclipse files
+*.log
+*.tmp
+*.bak
+*.swp
+.settings/
+bin/
+target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build and dependency folders
+/build/
+node_modules/
+.gradle/
+.mvn/
