@@ -89,6 +89,6 @@ Die Ergebnisse werden in der Konsole ausgegeben.
 
 ## Autoren
 
-- Max
+- M.B.
 - N.R.
-- L.P.
+- Thanh
